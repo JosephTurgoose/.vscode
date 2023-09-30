@@ -6,7 +6,7 @@ The program is very simple.  It allows you to add or remove speicific items from
 
 My purpose in writing this software is to test and get a feel for C++, as well as create a system that could accurately demonstrate the things I learned about it over the course of two weeks.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/XMm1PbsR4mU)
 
 # Development Environment
 
